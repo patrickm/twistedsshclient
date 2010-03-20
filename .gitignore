@@ -1,0 +1,4 @@
+.DS_Store
+*.pyc
+*.pyo
+examples/private_config.*
